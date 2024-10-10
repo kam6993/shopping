@@ -25,7 +25,7 @@ INSERT INTO USER_ROLE (user_id, role_id)
 VALUES (2, 2);
 INSERT INTO USER_ROLE (user_id, role_id)
 VALUES (3, 2);
-
+INSERT
 INSERT INTO PRODUCT (name, description, quantity, price)
 VALUES ('Soap', 'Pears baby soap for Kids', 1, 35.75);
 INSERT INTO PRODUCT (name, description, quantity, price)
